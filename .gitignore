@@ -1,0 +1,15 @@
+# pack
+.idea/
+
+#venv
+venv/
+
+#cache
+__pycache__/
+*.py[co]
+.pytest_cache/
+
+# logs
+*.log
+
+
